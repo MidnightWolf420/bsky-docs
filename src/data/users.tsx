@@ -1242,14 +1242,7 @@ const Users: User[] = [
     author: 'https://bsky.app/profile/did:plc:aeu4zvcwmdk774qmqcyed5sa',
     tags: ['othertools', 'opensource'],
   },
-  {
-    title: 'Skycord',
-    description: 'Skycord is a discord bot to forward bluesky posts from accounts of your choice almost instantly to your discord server, it supports posts, replies and reposts. It also has a blacklist and whitelist to filter posts it sends.',
-    preview: require('./showcase/example-1.png'),
-    website: 'https://discord.com/application-directory/1300562405679435787',
-    author: 'https://bsky.app/profile/did:plc:mwmszizz5k4rhg2t6owjz3ti',
-    tags: ['othertools', 'bridge'],
-  },
+
 ]
 
 export type User = {
